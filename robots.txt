@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /engine/
+Disallow: /rcon/
+Disallow: /admin/
+Disallow: /p/
+Disallow: /cabinet/
